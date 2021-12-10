@@ -28,7 +28,7 @@
         <solr.version>8.7.0</solr.version>
         <curator.version>2.13.0</curator.version>
         <jetty.version>9.4.27.v20200227</jetty.version>
-        <log4j-to-slf4j.version>2.13.3</log4j-to-slf4j.version>
+        <log4j-to-slf4j.version>2.15.0</log4j-to-slf4j.version>
 
         <scala.version>2.13.0</scala.version>
         <scala.binary.version>2.13</scala.binary.version>
