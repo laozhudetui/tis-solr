@@ -144,7 +144,7 @@
             <!--
             <version>1.6.0-cdh5.5.0</version>
             -->
-            <version>1.6.0</version>
+            <version>1.10.0</version>
             <exclusions>
                 <exclusion>
                     <groupId>log4j</groupId>
