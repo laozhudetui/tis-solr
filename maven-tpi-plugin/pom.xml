@@ -35,7 +35,7 @@
 
     <properties>
         <maven-plugin-tools.version>3.6.0</maven-plugin-tools.version>
-        <maven.version>3.3.9</maven.version>
+        <maven.version>3.9.0</maven.version>
     </properties>
 
     <scm>
@@ -201,7 +201,7 @@
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-jar-plugin</artifactId>
                 <configuration>
-                    <excludes combine.self="override"></excludes>
+                    <excludes combine.self="override"/>
                 </configuration>
             </plugin>
 
