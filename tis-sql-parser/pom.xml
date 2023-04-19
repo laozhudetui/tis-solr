@@ -38,7 +38,7 @@
 		<dependency>
 			<groupId>com.facebook.presto</groupId>
 			<artifactId>presto-parser</artifactId>
-			<version>0.206</version>
+			<version>0.281</version>
 		</dependency>
 		<!---->
 		<dependency>
