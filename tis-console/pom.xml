@@ -14,7 +14,7 @@
   <packaging>jar</packaging>
 
   <properties>
-    <struts2.version>2.5.17</struts2.version>
+    <struts2.version>2.5.32</struts2.version>
   </properties>
 
   <profiles>
