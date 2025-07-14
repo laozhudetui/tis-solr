@@ -35,7 +35,7 @@
 
     <properties>
         <maven-plugin-tools.version>3.6.0</maven-plugin-tools.version>
-        <maven.version>3.3.9</maven.version>
+        <maven.version>3.9.8</maven.version>
     </properties>
 
     <scm>
@@ -94,7 +94,7 @@
         <dependency>
             <groupId>org.apache.maven.plugins</groupId>
             <artifactId>maven-dependency-plugin</artifactId>
-            <version>2.10</version>
+            <version>3.3.0</version>
         </dependency>
         <dependency>
             <groupId>org.sonatype.plexus</groupId>
@@ -117,7 +117,7 @@
             <dependency>
                 <groupId>org.apache.maven</groupId>
                 <artifactId>maven-plugin-api</artifactId>
-                <version>3.3.9</version>
+                <version>3.6.0</version>
             </dependency>
             <dependency>
                 <groupId>commons-lang</groupId>
@@ -201,7 +201,7 @@
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-jar-plugin</artifactId>
                 <configuration>
-                    <excludes combine.self="override"></excludes>
+                    <excludes combine.self="override"/>
                 </configuration>
             </plugin>
 
